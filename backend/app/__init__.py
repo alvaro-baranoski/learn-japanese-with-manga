@@ -12,4 +12,4 @@ app.register_blueprint(blueprint)
 
 api = Api(app, title='Api Flask Experiments', version='1.0', description='Api de experimentos com python flask',prefix='/api')
 
-api.add_namespace(home_ns, path="/pessoa")
+api.add_namespace(home_ns)

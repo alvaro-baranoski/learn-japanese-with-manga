@@ -10,7 +10,7 @@ modelo = api.model('PessoaModel', {
     'endereco': fields.String
 })
 
-@api.route('/')
+@api.route('')
 class PessoaController(Resource):
     @api.response(200, "Busca realizada com sucesso") #documentação para tipo de respostas
     def get(self):
