@@ -4,3 +4,5 @@ I like to read Yuragi-Sou no Yuuna-San, but all translated version are not from 
 BONUS
 - I would like to read manga on my phone
 - I would like to get automatic updates and translations of new chapters (those whose art are different between the official and the translated)
+
+Sources: https://medium.com/ngconf/angular-pwa-install-and-configure-858dd8e9fb07
