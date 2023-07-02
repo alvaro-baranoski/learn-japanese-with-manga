@@ -46,3 +46,5 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+/backend/LearnJapaneseWithManga/.vs/LearnJapaneseWithManga
+/backend/LearnJapaneseWithManga/obj
